@@ -11,6 +11,6 @@ I am available for consulting (up to 12 hours a week max, $120/hour). I can help
 - Technical architecture
 - Frontend, backend issues
 - Reviews and Code Quality Assessment
-- Building and managing teams in Bangalore/India
+- Building, managing/coordinating with teams in Bangalore/India
 
 You can email me at jeswinpk@agilehead.com

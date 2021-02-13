@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**jeswin/jeswin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jeswin Kumar, a technical consultant mostly working with product companies and startups. I have been in the industry since 1999, and my experience revolves around JavaScript and .Net ecosystems. My consulting experience includes helping build products for massive "enterprise" corps as well as tiny startups; and across multiple domains (Healthcare, Communications, Search, Social Media, EdTech, Financial Services, HR etc etc).
 
-Here are some ideas to get you started:
+I also maintain the following Open Source projects:
+- [ForgoJS](https://forgojs.org): A UI Framework
+- [BashoJS](https://bashojs.org): JS Evaluator for unixy shells
+- [Retransmit](https://retransmit.io): Open Source API Gateway
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am available for consulting (up to 12 hours a week max, $120/hour). I can help with:
+- Technical architecture
+- Frontend, backend issues
+- Reviews and Code Quality Assessment
+- Building and managing teams in Bangalore/India
+
+You can email me at jeswinpk@agilehead.com

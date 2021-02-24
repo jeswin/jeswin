@@ -8,7 +8,7 @@ I also maintain the following Open Source projects:
 - [Retransmit](https://retransmit.io): Open Source API Gateway
 
 I am available for consulting (up to 12 hours a week max, $120/hour). I can help with:
-- Technical architecture
+- Application architecture
 - Frontend, backend issues
 - Reviews and Code Quality Assessment
 - Building, managing/coordinating with teams in Bangalore/India
